@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxJAPjz0Jcm0iCWW/8Qk8gTDJGBlSB79zZoB3PkF3SYAxC7LLkohXT7BiiOMIJGxp7bbxSxHEhZrjTdgfS0BqA==",
+  "success": true,
+  "projectFilePath": "D:\\burhan\\Codes\\2022\\Udemy\\netcore-1\\NorthwindBackend\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
